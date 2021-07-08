@@ -78,3 +78,16 @@ li {
   float: left;
   position: relative;
 }
+#img1 {
+  width: 100%;
+}
+#t1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 48px;
+}
+#p1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 28px;
+}
